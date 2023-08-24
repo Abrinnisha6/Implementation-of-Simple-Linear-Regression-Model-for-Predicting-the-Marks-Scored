@@ -7,11 +7,15 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. 
-2. 
-3. 
-4. 
+## Algorithm :
+
+### STEP 1:  Import the needed packages
+
+### STEP 2: Assigning hours To X and Scores to Y
+
+### STEP 3 :Plot the scatter plot
+
+### STEP 4 :Use mse,rmse,mae formmula to find 
 
 ## Program:
 ```
